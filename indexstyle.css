@@ -1,0 +1,42 @@
+h1{
+	font size: 66px;
+	color:magenta;
+	text-align: center;
+}
+h2{
+	color: aqua ; 
+}
+.img1{
+	width:100px;
+	height:100px;
+	display: inline;
+	display: center;
+}	
+.img2{
+	width:90px;
+	height:90px;
+	display: inline;
+  display:center;
+}
+body {
+	background-color: gold;
+}
+.img3{
+width:99px;
+	height:99px;
+	display: inline;
+	display: center;
+	}
+.container{
+	text-align: center;
+}
+.img4{
+	width:110px
+	height: 113px;
+	display:inline;
+	display:center;
+}
+p{
+	color:aqua;
+	font-size: 31px;
+}
